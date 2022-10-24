@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ConsoleServiceBoilerplate": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "ConsoleServiceBoilerplate.Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
